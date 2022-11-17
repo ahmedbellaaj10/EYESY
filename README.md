@@ -12,13 +12,16 @@ Using machine learning, the card informs the visually impaired user if there are
 
 #Edgecomputing #Artificiaintelligence #iotdata #winners #edgeai #edgecloud #ai #iot
 
+# Team members
+![](images/ODC_3)
+
 # Conception
 ![Pitch - Orange Makeathon](https://user-images.githubusercontent.com/55398565/175769482-fb650272-9e0b-4c80-9c2b-ec6fb72589da.jpg)
-![](images/ODC.jpg)
 
 
 # Final Product
-![215d4c87-8113-4042-9b02-691f747f9dc4](https://user-images.githubusercontent.com/55398565/175769492-95f0d812-53ab-4f61-ba00-6a457c8d592d.jpg)
+![](images/ODC_2.jpg)
+
  
 # Illustrating video
 https://user-images.githubusercontent.com/55398565/175769603-db36ca88-dadc-4fe7-9938-da70ff43c6d5.mp4
